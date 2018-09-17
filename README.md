@@ -40,6 +40,17 @@ Download `powerline-simple` to your machine (optionally make it hidden) and sour
 . ${HOME}/.powerline-simple
 ```
 
+Requirements
+---
+
+You may need to install the powerline fonts to be able to see some of the characters displayed in the prompt. 
+
+#### Ubuntu
+
+```
+apt install fonts-powerline
+```
+
 Additional Options
 ---
 
